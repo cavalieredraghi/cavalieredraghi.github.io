@@ -173,6 +173,7 @@ hr.small {
 
 .services {
     padding: 50px 0;
+    background-color: rgba(78,99,120,.9);
 }
 
 .service-item {
@@ -215,6 +216,7 @@ hr.small {
 
 .call-to-action {
     padding: 50px 0;
+    background-color: rgba(115,92,82,.9);
 }
 
 .call-to-action .btn {
@@ -241,6 +243,7 @@ hr.small {
 
 footer {
     padding: 100px 0;
+    background-color: rgba(245,208,119,0.9);
 }
 
 #to-top {
