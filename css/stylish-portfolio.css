@@ -267,3 +267,16 @@ footer {
 .fa-github{
     color:rgba(78,99,120,0.9);
 }
+
+/*protrait photo*/
+
+#Anthony{
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+}
+/*contact me page*/
+#message{
+    width: 500px;
+    height: 500px;
+}
