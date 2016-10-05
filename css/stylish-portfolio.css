@@ -276,7 +276,7 @@ footer {
     border-radius: 50%;
 }
 /*contact me page*/
-#message{
-    width: 500px;
-    height: 500px;
+#wordCloud{
+    width: 50%;
+    height: 50%;
 }
