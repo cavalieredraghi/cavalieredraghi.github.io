@@ -252,3 +252,18 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+/*having correct color on Font awesome*/
+.fa-shopping-cart{
+    color:black;
+}
+
+.fa-linkedin{
+    color:rgba(78,99,120,0.9);
+}
+.fa-twitter{
+    color:rgba(78,99,120,0.9);
+}
+.fa-github{
+    color:rgba(78,99,120,0.9);
+}
